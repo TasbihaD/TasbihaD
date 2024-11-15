@@ -1,4 +1,5 @@
 include<stdio.h>
 { int i;
   printf("enter the value of i);
+  printf(i);
 }
