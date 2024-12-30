@@ -4,5 +4,6 @@
   printf("hello AIMLCSD");
   scanf("%d",&i);
    add;
-   sum;
+   int;
+
 }
